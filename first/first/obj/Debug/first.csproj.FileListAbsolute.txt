@@ -1,0 +1,6 @@
+C:\Users\илья\Desktop\first\first\bin\Debug\first.exe.config
+C:\Users\илья\Desktop\first\first\obj\Debug\first.csprojResolveAssemblyReference.cache
+C:\Users\илья\Desktop\first\first\bin\Debug\first.exe
+C:\Users\илья\Desktop\first\first\bin\Debug\first.pdb
+C:\Users\илья\Desktop\first\first\obj\Debug\first.exe
+C:\Users\илья\Desktop\first\first\obj\Debug\first.pdb
