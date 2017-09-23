@@ -1,0 +1,11 @@
+1)  
+
+select DISTINCT POSITION,NAME  from EMPLOYEE where .DEPARTMENT_ID=2;
+
+
+2)
+
+
+select e2.NAME, results.FK_CHIEF_ID, avg_sal from (select FK_CHIEF_ID, AVG(salary) as avg_sal from EMPLOYEE group by FK_CHIEF_ID) as results
+join EMPLOYEE e2 on results.FK_CHIEF_ID = e2.PK_ID
+where e2.SALARY > (results.avg_sal * 2)
